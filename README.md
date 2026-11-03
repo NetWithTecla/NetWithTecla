@@ -1,3 +1,4 @@
 <p align="center">
-  <img> src= "https://github.com/NetWithTecla/NetWithTecla/blob/main/Neon%20Cyberpunk%20Networking%20Wallpaper.png?raw=true" width="100%" alt="NetWithTecla profile Banner">
+  <img src="https://githubusercontent.com" width="100%" alt="NetWithTecla profile banner">
+alt="NetWithTecla profile Banner">
 </p>

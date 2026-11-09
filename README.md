@@ -174,7 +174,7 @@ reliable source of truth across managed devices.
 <a href="mailto:tecla.gicheha@gmail.com"><img src="https://img.shields.io/badge/Email-tecla.gicheha%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://linkedin.com/in/tecla-gicheha-73b48641a"><img src="https://img.shields.io/badge/LinkedIn-Tecla%20Gicheha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://github.com/NetWithTecla"><img src="https://img.shields.io/badge/GitHub-NetWithTecla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<a href="./Tecla_Wairimu_Gicheha_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-PDF-FF00FF?style=for-the-badge&labelColor=0D0221&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
+<a href="./TECLA_GICHEHA_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-PDF-FF00FF?style=for-the-badge&labelColor=0D0221&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
 
 <br><br>
 

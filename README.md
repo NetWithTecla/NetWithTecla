@@ -30,7 +30,7 @@ by layer.
 <a href="https://github.com/NetWithTecla"><img src="https://img.shields.io/badge/GitHub-NetWithTecla-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 <img src="https://img.shields.io/badge/Location-Kenya-FF00FF?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Kenya">
 <img src="https://img.shields.io/badge/CCNA-Certified-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA Certified">
-<a href="./Tecla_Wairimu_Gicheha_CV.pdf"><img src="https://img.shields.io/badge/Download%20CV-PDF-FF00FF?style=for-the-badge&labelColor=0D0221&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
+<a href="[./TECLA%20GICHEHA%20CV.pdf)"><img src="https://img.shields.io/badge/Download%20CV-PDF-FF00FF?style=for-the-badge&labelColor=0D0221&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
 
 <br><br>
 

@@ -4,7 +4,7 @@
 
 <h1>Tecla Wairimu Gicheha</h1>
 
-<b>CCNA Certified Network Engineer</b>
+<b>CCNA Certified Network Associate</b>
 
 <br>
 
@@ -39,7 +39,7 @@ policy and encrypted WAN links &mdash; and automate the repetitive parts with Py
 
 ## About
 
-CCNA-certified Network Engineer based in Kenya. I configure and maintain routed
+CCNA-certified Network Associate based in Kenya. I configure and maintain routed
 and switched networks, implement security policy, and write Python automation
 that removes manual configuration errors. I like clean documentation and labs
 that are honest about what works.
